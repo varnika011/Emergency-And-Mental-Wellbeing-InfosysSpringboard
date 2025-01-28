@@ -5,8 +5,8 @@
 Welcome to the official repository for the **Emergency and Mental Well-being** project, developed by **Team Mavericks** under the guidance of our mentor, **Manikanta** from **Infosys Springboard**. This project aims to provide a comprehensive platform for emergency assistance and mental health well-being.
 
 ### Team Members:
-1. **Jitesh Borkar**
-2. **Varnika**
+1. **Varnika Saraswat**
+2. **Jitesh Borkar**
 3. **Shresth Gupta**
 4. **Swabhavika**
 5. **Revent Ready**
